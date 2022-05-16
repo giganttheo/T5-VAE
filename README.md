@@ -1,6 +1,10 @@
 # T5-VAE
 
-For the [Flax/JAX Community Week](https://github.com/huggingface/transformers/tree/main/examples/research_projects/jax-projects), I worked on a T5-VAE.
+For the [Flax/JAX Community Week](https://github.com/huggingface/transformers/tree/main/examples/research_projects/jax-projects), I worked on the T5-VAE project that combines a T5 transformer model with a variational autoencoder to learn smooth latent spaces for texts.
+
+![T5-VAE](https://github.com/giganttheo/T5-VAE/blob/master/t5-vae.png?raw=true)
+
+### Links :
 
 * [Model card](https://huggingface.co/flax-community/t5-vae-wiki) for the T5-VAE trained on Wikipedia sentences.
 * [Model card](https://huggingface.co/flax-community/t5-vae-python) for the T5-VAE trained on python code.
